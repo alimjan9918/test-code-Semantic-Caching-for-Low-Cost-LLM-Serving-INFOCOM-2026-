@@ -1,0 +1,19 @@
+# 缓存
+__pycache__/
+*.pyc
+
+# 实验结果图和输出
+fig2a_results/
+fig2b_results/
+fig2c_results/
+fig2def_check/
+fig2def_results/
+
+# 压缩包
+*.zip
+*.rar
+
+# 日志、编辑器配置
+*.log
+.vscode/
+.idea/
